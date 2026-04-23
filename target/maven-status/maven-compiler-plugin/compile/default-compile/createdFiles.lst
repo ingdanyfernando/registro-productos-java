@@ -1,0 +1,3 @@
+com\tuusuario\registroproductos\modelo\Producto.class
+com\tuusuario\registroproductos\servicio\Inventario.class
+com\tuusuario\registroproductos\app\Main.class
